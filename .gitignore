@@ -1,9 +1,9 @@
 
-MySampleFramework/SampleFramework/Library
-MySampleFramework/SampleFramework/Temp
-MySampleFramework/SampleFramework/ProjectSettings
-MySampleFramework/SampleFramework/Logs
+
 data
 
-KProject/obj/
-KProject/Logs/
+SampleFramework/Library/
+SampleFramework/Temp/
+SampleFramework/ProjectSettings/
+SampleFramework/Logs/
+SampleFramework/Packages/
