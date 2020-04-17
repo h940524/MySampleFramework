@@ -7,3 +7,8 @@ SampleFramework/Temp/
 SampleFramework/ProjectSettings/
 SampleFramework/Logs/
 SampleFramework/Packages/
+SampleFramework/Assembly-CSharp.csproj
+SampleFramework/Assembly-CSharp-Editor.csproj
+SampleFramework/.vscode
+SampleFramework/SampleFramework.sln
+SampleFramework/obj
